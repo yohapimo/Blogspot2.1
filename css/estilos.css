@@ -14,10 +14,12 @@ body {
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
+
 }
 
 #post {
     background-color: grey;
+    padding: 5%;
 }
 
 #container h1 {
